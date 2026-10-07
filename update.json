@@ -1,8 +1,9 @@
 {
-  "type": "notice",
-  "minVersionCode": 0,
-  "maxVersionCode": 10012,
-  "title": "📢 PEMBERITAHUAN",
-  "message": "Assalamu’alaikum warahmatullahi wabarakatuh 🙏\n\nMohon untuk selalu menggunakan History, kemudian pilih Simpan Favorite apabila mengalami Token Blank atau Spot tidak muncul.\n\nApabila mengalami Token Blank, silakan lakukan langkah berikut:\n1. Klik Utilities\n2. Pilih Remove Token\n3. Pilih Refresh Token\n4. Gunakan Token Server 1\n\nDemi kenyamanan dan kebersamaan kita, diharapkan untuk selalu melakukan langkah tersebut agar kendala dapat diminimalisir.\n\nTerima kasih atas perhatian dan kerja samanya. 🙏\n\nWassalamu’alaikum warahmatullahi wabarakatuh.",
+  "versionCode": 10012,
+  "versionName": "10012",
+  "releaseDate": "Oct 7, 2026",
+  "packageName": "app.market.gps.sboyz",
+  "changelog": "📢 PEMBERITAHUAN\n\nAssalamu’alaikum warahmatullahi wabarakatuh 🙏\n\nMohon untuk selalu menggunakan History, kemudian pilih Simpan Favorite apabila mengalami Token Blank atau Spot tidak muncul.\n\nApabila mengalami Token Blank, silakan lakukan langkah berikut:\n1. Klik Utilities\n2. Pilih Remove Token\n3. Pilih Refresh Token\n4. Gunakan Token Server 1\n\nDemi kenyamanan dan kebersamaan kita, diharapkan untuk selalu melakukan langkah tersebut agar kendala dapat diminimalisir.\n\nTerima kasih atas perhatian dan kerja samanya. 🙏\n\nWassalamu’alaikum warahmatullahi wabarakatuh.",
+  "downloadUrl": "https://github.com/SBOYZGRABMODZ/UpdateSboyzAll/releases/download/%23fakesboyz/SBFAKE_Free.Edition.apk",
   "forceUpdate": false
 }
