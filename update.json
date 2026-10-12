@@ -6,5 +6,5 @@
   "packageName": "app.market.gps.sboyz",
   "changelog": "#CHANGELOG\n\n+ STATIONARY MODE\n+ DETEKSI VERSION GRAB\n+ REMOVE TOKEN FETCHER 60DETIK\n\n📢 PETUNJUK UPDATE\n\n1. KLIK DOWNLOAD, LALU INSTAL/UPDATE APLIKASI.\n\n📍 JANGAN LUPA SIMPAN LOKASI FAVORITE!\nSimpan lokasi yang sering dikunjungi agar mudah digunakan kembali.\n\n⭐ CARA SIMPAN LOKASI KE FAVORITE\n1. Buka menu HISTORY.\n2. Pilih lokasi yang ingin disimpan.\n3. Klik SIMPAN KE FAVORITE.\n4. Lokasi atau titik koordinat akan tersimpan di menu FAVORITE (ikon bintang ⭐).",
   "downloadUrl": "https://github.com/SBOYZGRABMODZ/UpdateSboyzAll/releases/download/%23fakesboyz/SBFAKE_Free.Edition.apk",
-  "forceUpdate": false
+  "forceUpdate": true
 }
