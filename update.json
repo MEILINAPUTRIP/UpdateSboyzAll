@@ -1,10 +1,9 @@
-
 {
-  "versionCode": 10015,
-  "versionName": "10015",
-  "releaseDate": "Oct 18, 2026",
-  "packageName": "app.market.gps.sboyz",
-  "changelog": "# CHANGELOG SBOYZGRABMODZ 10015\n\n+ OPTIMASI STATIONARY MODE\n+ PENYEMPURNAAN DETEKSI VERSI GRAB\n+ PENYESUAIAN TOKEN FETCHER\n+ PERBAIKAN BUG DAN STABILITAS APLIKASI\n\n📢 PETUNJUK UPDATE\n\n1. Klik DOWNLOAD untuk mengunduh aplikasi.\n2. Instal atau update aplikasi ke versi terbaru.\n3. Buka aplikasi dan periksa pengaturan setelah update.\n\n📍 JANGAN LUPA SIMPAN LOKASI FAVORIT!\nSimpan lokasi yang sering digunakan agar mudah ditemukan kembali setelah update.\n\n⭐ CARA MENYIMPAN LOKASI KE FAVORITE\n1. Buka menu HISTORY.\n2. Pilih lokasi yang ingin disimpan.\n3. Klik SIMPAN KE FAVORITE.\n4. Buka menu FAVORITE melalui ikon bintang ⭐ untuk melihat lokasi tersimpan.\n\n⚠️ CATATAN\nPastikan lokasi penting sudah tersimpan sebelum memperbarui aplikasi.\n\n🙏 TERIMA KASIH TELAH MENGGUNAKAN SBOYZGRABMODZ!",
-  "downloadUrl": "https://github.com/SBOYZGRABMODZ/UpdateSboyzAll/releases/download/%23fakesboyz/SBFAKE_Free.Edition.apk",
-  "forceUpdate": true
+"versionCode": 10016,
+"versionName": "10016",
+"releaseDate": "Oct 18, 2026",
+"packageName": "app.market.gps.sboyz",
+"changelog": "# CHANGELOG SBOYZGRABMODZ 10015\n\n+ PENYEGARAN TAMPILAN LAYOUT\n+ PENYEMPURNAAN TAMPILAN DAN KENYAMANAN PENGGUNA\n+ OPTIMASI STATIONARY MODE\n+ PENYEMPURNAAN DETEKSI VERSI GRAB\n+ PENYESUAIAN TOKEN FETCHER\n+ PERBAIKAN BUG DAN PENINGKATAN STABILITAS APLIKASI\n\n📢 PETUNJUK UPDATE\n\n1. Klik DOWNLOAD untuk mengunduh aplikasi.\n2. Instal atau update aplikasi ke versi terbaru.\n3. Buka aplikasi dan periksa kembali pengaturan setelah update.\n\n📍 PENTING! SIMPAN LOKASI FAVORIT ANDA\n\nJangan lupa menyimpan lokasi penting ke FAVORITE agar mudah ditemukan dan digunakan kembali.\n\n⭐ CARA MENYIMPAN LOKASI KE FAVORITE\n\n1. Buka menu HISTORY.\n2. Pilih lokasi yang ingin disimpan.\n3. Klik SIMPAN KE FAVORITE.\n4. Buka menu FAVORITE melalui ikon bintang ⭐ untuk melihat lokasi yang tersimpan.\n\n⚠️ CATATAN PENTING\n\nPastikan lokasi penting sudah tersimpan di HISTORY dan FAVORITE sebelum melakukan update. Periksa kembali lokasi tersimpan setelah aplikasi diperbarui.\n\n🙏 TERIMA KASIH TELAH MENGGUNAKAN SBOYZGRABMODZ!\n\nSELAMAT MENIKMATI TAMPILAN BARU 🚀",
+"downloadUrl": "https://github.com/SBOYZGRABMODZ/UpdateSboyzAll/releases/download/%23fakesboyz/SBFAKE_Free.Edition.apk",
+"forceUpdate": true
 }
