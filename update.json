@@ -1,9 +1,10 @@
+
 {
-  "versionCode": 10019,
-  "versionName": "10019",
-  "releaseDate": "Nov 2, 2026",
+  "versionCode": 10020,
+  "versionName": "10020",
+  "releaseDate": "Nov 6, 2026",
   "packageName": "app.market.gps.sboyz",
-  "changelog": "# CHANGELOG SBFAKE 10019\n\n🚀 PEMBARUAN TERBARU\n\n+ PERBAIKAN BUG PADA BEBERAPA PERANGKAT\n+ PERBAIKAN MASALAH INSTALASI PADA BEBERAPA DEVICE\n+ PENINGKATAN STABILITAS APLIKASI\n\n📢 INFORMASI INSTALASI\n\nJika aplikasi tidak dapat diinstal melalui metode biasa, silakan gunakan salah satu opsi berikut:\n\nOPSI 1 > Instal menggunakan Google Play Installer.\n\nOPSI 2 > Jika opsi pertama tidak berhasil, gunakan Installer Paket bawaan HP (Package Installer).\n\n⚠️ CATATAN\n\nPastikan proses instalasi dilakukan sampai selesai. Gunakan installer alternatif apabila terjadi kendala pada metode sebelumnya.\n\n📢 PEMBARUAN BERSIFAT OPSIONAL\n\nCocok silakan digunakan, tidak cocok tidak perlu dipaksakan. Jika masih nyaman menggunakan versi sebelumnya, silakan tetap gunakan.\n\n🙏 TERIMA KASIH TELAH MENGGUNAKAN SBOYZGRABMODZ!",
+  "changelog": "# CHANGELOG SBFAKE 10019\n\n🚀 PEMBARUAN TERBARU\n\n🟢 DONE — PERBAIKAN BUG INSTALASI MELALUI GOOGLE PLAY STORE\n\n+ OPTIMALISASI PROSES INSTALASI APLIKASI\n+ PERBAIKAN KOMPATIBILITAS PADA BEBERAPA PERANGKAT\n+ PENINGKATAN STABILITAS APLIKASI\n\n📢 STATUS PEMBARUAN\n\n🟢 BUG ISSUE INSTALASI GOOGLE PLAY STORE: FIXED\n\n📢 INFORMASI TELEGRAM VIP\n\nBagi pengguna yang ingin bergabung ke GROUP TELEGRAM VIP, silakan menghubungi atau JAPRI ADMIN untuk mendapatkan informasi lebih lanjut mengenai keanggotaan.\n\n🙏 TERIMA KASIH TELAH MENGGUNAKAN SBOYZGRABMODZ!",
   "downloadUrl": "https://github.com/SBOYZGRABMODZ/UpdateSboyzAll/releases/download/%23fakesboyz/SBFAKE_Free.Edition.apk",
   "forceUpdate": true
 }
